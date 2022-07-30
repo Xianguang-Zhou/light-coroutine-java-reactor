@@ -47,5 +47,7 @@
 		</dependencies>
 	</dependencyManagement>
 
-	<modules></modules>
+	<modules>
+		<module>light-coroutine-java-reactor-core</module>
+	</modules>
 </project>
